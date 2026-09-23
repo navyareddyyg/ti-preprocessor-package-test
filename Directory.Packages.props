@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Example.NuGet.Central" Version="3.0.0" />
+  </ItemGroup>
+</Project>

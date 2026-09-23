@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0": {
+      "Example.NuGet.Lock": {
+        "type": "Direct",
+        "resolved": "2.0.0"
+      }
+    }
+  }
+}
